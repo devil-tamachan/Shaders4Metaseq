@@ -21,6 +21,7 @@ Metasequoia4向けシェーダー
 
 使い方：
  - よくわからないパラメーターは1.0にしてください。0.5にするとテクスチャ値が*0.5されます。
+ - マテリアル色もテクスチャを使う場合は白にしておいてください。
 
 Link:
  - [Lux (MIT License)](https://github.com/larsbertram69/Lux)
