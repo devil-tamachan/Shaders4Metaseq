@@ -15,6 +15,7 @@ Metasequoia4向けシェーダー
  ![Cerberus Metalness Test](http://i.imgur.com/k4A5Lk2.jpg)
 
 インストール方法：
+ - 表示をDirectX11にしないと表示されません。
  - Windows 32ビット版 + Metasequoia 32ビット版:
  - Windows 64ビット版 + Metasequoia 64ビット版:
   * C:\Program Files \tetraface\Metasequoia4\Data\Shader へ、.xmlと.hlslファイルをコピーしてください
