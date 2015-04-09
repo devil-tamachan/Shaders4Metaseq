@@ -10,6 +10,13 @@ Metasequoia4向けシェーダー
  - Matcapシェーダー
  - LuxのPBR Metalnessシェーダー（環境マップ非対応）
 
+インストール方法：
+ - Windows 32ビット版 + Metasequoia 32ビット版:
+ - Windows 64ビット版 + Metasequoia 64ビット版:
+  * C:\Program Files \tetraface\Metasequoia4\Data\Shader へ、.xmlと.hlslファイルをコピーしてください
+ - Windows 64ビット版 + Metasequoia 32ビット版:
+  * C:\Program Files (x86)\tetraface\Metasequoia4\Data\Shader へ、.xmlと.hlslファイルをコピーしてください
+
 使い方：
  - よくわからないパラメーターは1.0にしてください。0.5にするとテクスチャ値が*0.5されます。
 
