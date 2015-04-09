@@ -25,6 +25,16 @@ Metasequoia4向けシェーダー
  - よくわからないパラメーターは1.0にしてください。0.5にするとテクスチャ値が*0.5されます。
  - マテリアル色もテクスチャを使う場合は白にしておいてください。
 
+LuxMetalnessのテクスチャ：
+ - 模様 - Albedo
+ - 凸凹 - Normal map
+ - Metallic - R: Metalness, G: AO, B: Spec,  A: Roughness
+  * [詳しくはここらへんを見てください](http://envgameartist.blogspot.jp/2014/12/pbr.html)
+  
+Matcapのテクスチャ：
+ - Matcap - Matcapテクスチャ (ググってください。Sculptrisにいっぱい入っているのが使えます)
+ - その他のテクスチャはすべて無視されます
+
 Link:
  - [Lux (MIT License)](https://github.com/larsbertram69/Lux)
   * Copyright (c) 2014 larsbertram69
