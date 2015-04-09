@@ -19,8 +19,8 @@ cbuffer ConstantBufferMaterial : register( b2 )
 #define LUX_METALNESS
 #define LUX_LIGHTING_CT
 #define LUX_GAMMA
-#define DIFFCUBE_ON
-#define SPECCUBE_ON
+//#define DIFFCUBE_ON
+//#define SPECCUBE_ON
 
 #ifndef ALPHAMAP
 #define ALPHAMAP TEXTURE
