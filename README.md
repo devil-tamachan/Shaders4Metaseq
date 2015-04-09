@@ -10,7 +10,9 @@ Metasequoia4向けシェーダー
 
 入っているシェーダー：
  - Matcapシェーダー
+ [Matcap](http://i.imgur.com/3fzi2pM.jpg)
  - LuxのPBR Metalnessシェーダー（環境マップ非対応）
+ [Cerberus Metalness Test](http://i.imgur.com/k4A5Lk2.jpg)
 
 インストール方法：
  - Windows 32ビット版 + Metasequoia 32ビット版:
