@@ -6,6 +6,8 @@ Metasequoia4向けシェーダー
  - Metasequoia 4.4.2で動作確認しています。
  - それ以外のバージョンでは動かない可能性があります
 
+[最新版ダウンロード](https://github.com/devil-tamachan/Shaders4Metaseq/archive/master.zip)
+
 入っているシェーダー：
  - Matcapシェーダー
  - LuxのPBR Metalnessシェーダー（環境マップ非対応）
