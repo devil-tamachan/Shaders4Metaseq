@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<shader name="LuxMetalness" hlsl="LuxMetalness" visible="1">
+  <params>
+    <param name="Alpha" />
+    <param name="BaseColor" />
+    <param name="Metalness" default_value="1" />
+    <param name="AO" default_value="1" />
+    <param name="Spec" default_value="1" />
+    <param name="Roughness" default_value="1" />
+  </params>
+  <maps>
+    <map name="Texture" />
+    <map name="Alpha" />
+    <map name="Bump" />
+    <map name="Metallic" />
+    <!--map name="EnvSphereDiff" />
+    <map name="EnvSphereSpec" /-->
+  </maps>
+</shader>

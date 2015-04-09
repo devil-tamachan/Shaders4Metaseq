@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<shader name="Matcap" hlsl="matcap" visible="1">
+  <params>
+    <param name="Alpha" />
+    <param name="BaseColor" />
+  </params>
+  <maps>
+    <map name="Texture" />
+    <map name="Alpha" />
+    <map name="Bump" />
+    <map name="Matcap" />
+  </maps>
+</shader>
