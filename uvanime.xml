@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<shader name="UVAnime" hlsl="uvanime" visible="1">
+  <params>
+    <param name="Alpha" />
+    <param name="BaseColor" />
+    <param name="SpecularPower" />
+    <param name="TileSize" type="int" range="1,32" default_value="1" />
+    <param name="WidthScale" type="float" range="0,32" default_value="1" />
+    <param name="HeightScale" type="float" range="0,32" default_value="1" />
+    <param name="LightY" type="bool" default_value="0" />
+  </params>
+  <maps>
+    <map name="Texture" />
+  </maps>
+</shader>
