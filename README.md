@@ -28,8 +28,9 @@ Metasequoia4向けシェーダー
  - LightYのチェックがオンの場合、ライトの左右でアニメーションします。オフの場合、ライト上下でアニメーションします。
   
 UVAnimeのテクスチャ：
- - 縦にタイルが積み重なってるテクスチャ
- <img src="https://raw.githubusercontent.com/devil-tamachan/Shaders4Metaseq/master/example1.png" />
+ - <img src="https://raw.githubusercontent.com/devil-tamachan/Shaders4Metaseq/master/example1.png" />
+ <br/>
+ 縦にタイルが積み重なってるテクスチャ
 
 Link:
  - [map.hlsl, map.xml(in Metasequoia 4.4.2) (public domain)](http://metaseq.net/bbs/metaseq/bbs.php?lang=jp&res=5528)
