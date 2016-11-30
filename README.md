@@ -21,8 +21,8 @@ Metasequoia4向けシェーダー
   * C:\Program Files (x86)\tetraface\Metasequoia4\Data\Shader へ、.xmlと.hlslファイルをコピーしてください
 
 使い方：
+ - 詳しくはサンプル見てください (example1.mqo, example2.mqo)　開いたらライトをグリグリしてみてください。アニメーションしない場合はインストールに失敗しているか、表示がDirectX11になっていないか確認してください
  - １番目のライトの向きによってアニメーションします。
- - 詳しくはサンプル見てください (example1.mqo, example2.mqo)
  - タイルは上下に増やしてください
  - WidthScale, HeightScaleでタイルを増やした時にUVを調整できます (例：example2.mqo)
  - LightYのチェックがオンの場合、ライトの左右でアニメーションします。オフの場合、ライト上下でアニメーションします。
